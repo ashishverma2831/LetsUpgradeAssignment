@@ -1,0 +1,1 @@
+JavaScript is a high-level, interpreted programming language that is widely used for building dynamic and interactive web pages. It is a core technology for web development and can be run in web browsers to create client-side functionality. Additionally, with the advent of server-side JavaScript platforms like Node.js, JavaScript can also be used on the server side.
